@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.04.02"]
+[Round "-"]
+[White "valesepicacchi"]
+[Black "rrgate2012"]
+[Result "0-1"]
+[CurrentPosition "2kr4/ppp4p/8/4bp2/4p1P1/4K2P/P5r1/4R3 w - -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[UTCDate "2022.04.02"]
+[UTCTime "15:07:50"]
+[WhiteElo "786"]
+[BlackElo "756"]
+[TimeControl "600"]
+[Termination "rrgate2012 won by resignation"]
+[StartTime "15:07:50"]
+[EndDate "2022.04.02"]
+[EndTime "15:17:36"]
+[Link "https://www.chess.com/game/live/42651013015"]
+
+1. e4 {[%clk 0:10:00]} 1... d5 {[%clk 0:09:58.9]} 2. d3 {[%clk 0:09:53.7]} 2...
+dxe4 {[%clk 0:09:56.8]} 3. dxe4 {[%clk 0:09:50.5]} 3... Qxd1+ {[%clk 0:09:55.7]}
+4. Kxd1 {[%clk 0:09:48]} 4... Nc6 {[%clk 0:09:49.8]} 5. Nc3 {[%clk 0:09:40.4]}
+5... e5 {[%clk 0:09:38.1]} 6. Nf3 {[%clk 0:09:36.2]} 6... Bg4 {[%clk 0:09:35.6]}
+7. Be2 {[%clk 0:09:32.5]} 7... Bxf3 {[%clk 0:09:17]} 8. Bxf3 {[%clk 0:09:30.1]}
+8... Nd4 {[%clk 0:09:15.8]} 9. Bg4 {[%clk 0:09:01.2]} 9... Nf6 {[%clk
+0:09:08.7]} 10. Bh3 {[%clk 0:08:52.5]} 10... g5 {[%clk 0:09:00.2]} 11. g3 {[%clk
+0:08:38.8]} 11... g4 {[%clk 0:08:58.7]} 12. Bg2 {[%clk 0:08:34.7]} 12... Bb4
+{[%clk 0:08:56.2]} 13. Nd5 {[%clk 0:08:14.9]} 13... Nxd5 {[%clk 0:08:47.7]} 14.
+exd5 {[%clk 0:08:11.7]} 14... O-O-O {[%clk 0:08:45.2]} 15. c3 {[%clk 0:07:54.9]}
+15... Bc5 {[%clk 0:08:04.6]} 16. cxd4 {[%clk 0:07:50.8]} 16... Bxd4 {[%clk
+0:08:03.5]} 17. f3 {[%clk 0:07:26.3]} 17... gxf3 {[%clk 0:07:58.3]} 18. Bxf3
+{[%clk 0:07:24.6]} 18... f5 {[%clk 0:07:48.2]} 19. Re1 {[%clk 0:06:43.4]} 19...
+e4 {[%clk 0:07:46.3]} 20. Bg2 {[%clk 0:06:38.3]} 20... Rxd5 {[%clk 0:07:42.6]}
+21. h3 {[%clk 0:06:15.5]} 21... Bxb2+ {[%clk 0:07:40.8]} 22. Bd2 {[%clk
+0:05:26.8]} 22... Bxa1 {[%clk 0:07:38]} 23. Ke2 {[%clk 0:05:18.5]} 23... Rhd8
+{[%clk 0:07:25.9]} 24. Ke3 {[%clk 0:04:27.4]} 24... Bd4+ {[%clk 0:07:17]} 25.
+Ke2 {[%clk 0:04:08.8]} 25... Be5 {[%clk 0:07:08.1]} 26. g4 {[%clk 0:03:40]}
+26... Rxd2+ {[%clk 0:07:05.1]} 27. Ke3 {[%clk 0:03:32.6]} 27... Rxg2 {[%clk
+0:07:01.7]} 0-1
