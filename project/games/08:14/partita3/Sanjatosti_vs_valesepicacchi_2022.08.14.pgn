@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.14"]
+[Round "?"]
+[White "Sanjatosti"]
+[Black "valesepicacchi"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "1051"]
+[BlackElo "792"]
+[TimeControl "600"]
+[EndTime "10:42:42 PDT"]
+[Termination "valesepicacchi won by checkmate"]
+
+1. e4 {[%timestamp 1]} 1... c6 {[%timestamp 1]} 2. f3 {[%timestamp 58]} 2... d5
+{[%timestamp 11]} 3. d3 {[%timestamp 34]} 3... dxe4 {[%timestamp 42]} 4. fxe4
+{[%timestamp 56]} 4... e5 {[%timestamp 67]} 5. Be2 {[%timestamp 118]} 5... f5
+{[%timestamp 43]} 6. exf5 {[%timestamp 88]} 6... Nf6 {[%timestamp 22]} 7. Nf3
+{[%timestamp 80]} 7... Bxf5 {[%timestamp 30]} 8. d4 {[%timestamp 124]} 8... e4
+{[%timestamp 192]} 9. Ne5 {[%timestamp 257]} 9... Bd6 {[%timestamp 265]} 10.
+Bh5+ {[%timestamp 284]} 10... g6 {[%timestamp 158]} 11. Bg4 {[%timestamp 125]}
+11... Bxe5 {[%timestamp 106]} 12. dxe5 {[%timestamp 62]} 12... Nxg4 {[%timestamp
+328]} 13. O-O {[%timestamp 353]} 13... Qb6+ {[%timestamp 359]} 14. Kh1
+{[%timestamp 443]} 14... Nf2+ {[%timestamp 176]} 15. Rxf2 {[%timestamp 37]}
+15... Qxf2 {[%timestamp 27]} 16. Bg5 {[%timestamp 631]} 16... O-O {[%timestamp
+51]} 17. Nd2 {[%timestamp 435]} 17... Nd7 {[%timestamp 223]} 18. Be3
+{[%timestamp 870]} 18... Qxe3 {[%timestamp 166]} 19. Nf1 {[%timestamp 101]}
+19... Qg5 {[%timestamp 77]} 20. Nd2 {[%timestamp 210]} 20... Qe3 {[%timestamp
+24]} 21. Nf1 {[%timestamp 160]} 21... Qf2 {[%timestamp 50]} 22. Qd6 {[%timestamp
+460]} 22... Bg4 {[%timestamp 184]} 23. e6 {[%timestamp 82]} 23... Qxf1+
+{[%timestamp 28]} 24. Rxf1 {[%timestamp 64]} 24... Rxf1# {[%timestamp 3]} 0-1
