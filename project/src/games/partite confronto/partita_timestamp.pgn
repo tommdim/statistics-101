@@ -1,0 +1,22 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.04.02"]
+[Round "?"]
+[White "valesepicacchi"]
+[Black "DrepyGuy"]
+[Result "1-0"]
+[ECO "C46"]
+[WhiteElo "818"]
+[BlackElo "821"]
+[TimeControl "600"]
+[EndTime "6:03:42 PDT"]
+[Termination "valesepicacchi won by resignation"]
+
+1. e4 {[%timestamp 1]} 1... e5 {[%timestamp 22]} 2. Nf3 {[%timestamp 13]} 2...
+Nc6 {[%timestamp 24]} 3. Nc3 {[%timestamp 9]} 3... Bb4 {[%timestamp 86]} 4. a3
+{[%timestamp 103]} 4... Bxc3 {[%timestamp 33]} 5. dxc3 {[%timestamp 22]} 5...
+Nf6 {[%timestamp 76]} 6. Bd3 {[%timestamp 88]} 6... d5 {[%timestamp 147]} 7.
+exd5 {[%timestamp 324]} 7... Qxd5 {[%timestamp 47]} 8. O-O {[%timestamp 126]}
+8... e4 {[%timestamp 14]} 9. Re1 {[%timestamp 148]} 9... O-O {[%timestamp 111]}
+10. Bxe4 {[%timestamp 46]} 10... Nxe4 {[%timestamp 24]} 11. Qxd5 {[%timestamp
+140]} 1-0
