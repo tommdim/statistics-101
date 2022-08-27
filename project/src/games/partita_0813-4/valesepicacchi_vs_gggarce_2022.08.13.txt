@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.13"]
+[Round "?"]
+[White "valesepicacchi"]
+[Black "gggarce"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "792"]
+[BlackElo "359"]
+[TimeControl "600"]
+[EndTime "7:09:18 PDT"]
+[Termination "valesepicacchi won by checkmate"]
+
+1. e4 {[%timestamp 1]} 1... e6 {[%timestamp 1]} 2. Nf3 {[%timestamp 23]} 2...
+Nf6 {[%timestamp 19]} 3. Nc3 {[%timestamp 186]} 3... Bd6 {[%timestamp 67]} 4. d4
+{[%timestamp 11]} 4... e5 {[%timestamp 46]} 5. dxe5 {[%timestamp 32]} 5... Be7
+{[%timestamp 42]} 6. exf6 {[%timestamp 25]} 6... Bxf6 {[%timestamp 19]} 7. Bc4
+{[%timestamp 46]} 7... O-O {[%timestamp 132]} 8. Bd2 {[%timestamp 93]} 8... d6
+{[%timestamp 144]} 9. Bg5 {[%timestamp 104]} 9... Qe8 {[%timestamp 36]} 10. Bxf6
+{[%timestamp 349]} 10... gxf6 {[%timestamp 33]} 11. Nh4 {[%timestamp 161]} 11...
+Kh8 {[%timestamp 159]} 12. f3 {[%timestamp 215]} 12... Rg8 {[%timestamp 25]} 13.
+Qd4 {[%timestamp 386]} 13... Qe7 {[%timestamp 95]} 14. g4 {[%timestamp 215]}
+14... Nc6 {[%timestamp 127]} 15. Qd5 {[%timestamp 445]} 15... Nb4 {[%timestamp
+118]} 16. Qd2 {[%timestamp 237]} 16... a6 {[%timestamp 305]} 17. O-O-O
+{[%timestamp 62]} 17... Qe5 {[%timestamp 509]} 18. Bxf7 {[%timestamp 430]} 18...
+Rf8 {[%timestamp 146]} 19. Bh5 {[%timestamp 145]} 19... Qa5 {[%timestamp 266]}
+20. a3 {[%timestamp 369]} 20... Nc6 {[%timestamp 390]} 21. Nf5 {[%timestamp
+249]} 21... Ne5 {[%timestamp 227]} 22. f4 {[%timestamp 256]} 22... Nf3
+{[%timestamp 61]} 23. Qd5 {[%timestamp 525]} 23... b5 {[%timestamp 130]} 24. e5
+{[%timestamp 145]} 24... Bb7 {[%timestamp 65]} 25. Qxb7 {[%timestamp 72]} 25...
+Rae8 {[%timestamp 110]} 26. Qxf3 {[%timestamp 26]} 26... Qb6 {[%timestamp 143]}
+27. Nd5 {[%timestamp 62]} 27... Qc5 {[%timestamp 85]} 28. Bxe8 {[%timestamp
+278]} 28... Rxe8 {[%timestamp 23]} 29. Nxf6 {[%timestamp 118]} 29... Rf8
+{[%timestamp 57]} 30. g5 {[%timestamp 134]} 30... dxe5 {[%timestamp 25]} 31.
+fxe5 {[%timestamp 91]} 31... Qxe5 {[%timestamp 71]} 32. Nd7 {[%timestamp 74]}
+32... Rxf5 {[%timestamp 34]} 33. Nxe5 {[%timestamp 104]} 33... Rxe5 {[%timestamp
+26]} 34. Rd7 {[%timestamp 185]} 34... Rxg5 {[%timestamp 69]} 35. Re1
+{[%timestamp 139]} 35... Rc5 {[%timestamp 115]} 36. Re8# {[%timestamp 1]} 1-0

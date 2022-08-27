@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.14"]
+[Round "?"]
+[White "valesepicacchi"]
+[Black "Sanjatosti"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "792"]
+[BlackElo "1051"]
+[TimeControl "600"]
+[EndTime "9:52:31 PDT"]
+[Termination "valesepicacchi won on time"]
+
+1. e4 {[%timestamp 1]} 1... e5 {[%timestamp 1]} 2. Nf3 {[%timestamp 16]} 2... d6
+{[%timestamp 87]} 3. Nc3 {[%timestamp 8]} 3... f6 {[%timestamp 138]} 4. d3
+{[%timestamp 43]} 4... Be7 {[%timestamp 131]} 5. Be2 {[%timestamp 13]} 5... Nc6
+{[%timestamp 96]} 6. b3 {[%timestamp 104]} 6... Nd4 {[%timestamp 206]} 7. Bb2
+{[%timestamp 211]} 7... Nxe2 {[%timestamp 288]} 8. Qxe2 {[%timestamp 31]} 8...
+Bg4 {[%timestamp 211]} 9. h3 {[%timestamp 76]} 9... Bxf3 {[%timestamp 59]} 10.
+Qxf3 {[%timestamp 7]} 10... Nh6 {[%timestamp 264]} 11. O-O {[%timestamp 76]}
+11... O-O {[%timestamp 39]} 12. Nd5 {[%timestamp 297]} 12... f5 {[%timestamp
+374]} 13. d4 {[%timestamp 189]} 13... fxe4 {[%timestamp 311]} 14. Qxe4
+{[%timestamp 137]} 14... c6 {[%timestamp 259]} 15. Nxe7+ {[%timestamp 301]}
+15... Qxe7 {[%timestamp 101]} 16. dxe5 {[%timestamp 67]} 16... Nf7 {[%timestamp
+222]} 17. Qg4 {[%timestamp 174]} 17... dxe5 {[%timestamp 338]} 18. Rfe1
+{[%timestamp 221]} 18... Nh6 {[%timestamp 513]} 19. Qg3 {[%timestamp 234]} 19...
+Nf5 {[%timestamp 225]} 20. Rxe5 {[%timestamp 303]} 20... Qh4 {[%timestamp 183]}
+21. Qg4 {[%timestamp 953]} 21... Qxg4 {[%timestamp 692]} 22. hxg4 {[%timestamp
+50]} 22... Nh4 {[%timestamp 188]} 23. Re7 {[%timestamp 150]} 23... Rf7
+{[%timestamp 361]} 24. Rae1 {[%timestamp 128]} 24... Ng6 {[%timestamp 302]} 25.
+Rxf7 {[%timestamp 98]} 25... Kxf7 {[%timestamp 37]} 26. g3 {[%timestamp 95]}
+26... Re8 {[%timestamp 146]} 27. Rxe8 {[%timestamp 79]} 27... Kxe8 {[%timestamp
+20]} 28. Bxg7 {[%timestamp 42]} 28... Ne5 {[%timestamp 25]} 29. f4 {[%timestamp
+37]} 29... Nf3+ {[%timestamp 22]} 30. Kf2 {[%timestamp 46]} 30... Nd4
+{[%timestamp 50]} 31. f5 {[%timestamp 35]} 31... Nxc2 {[%timestamp 26]} 32. g5
+{[%timestamp 63]} 32... h5 {[%timestamp 63]} 33. g6 {[%timestamp 31]} 1-0

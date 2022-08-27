@@ -1,0 +1,65 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.16"]
+[Round "?"]
+[White "tommidim"]
+[Black "roccot01"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "1557"]
+[BlackElo "1306"]
+[TimeControl "600"]
+[EndTime "14:47:17 PDT"]
+[Termination "roccot01 won by checkmate"]
+
+1. e4 {[%timestamp 1]} 1... c5 {[%timestamp 1]} 2. Nf3 {[%timestamp 27]} 2...
+Nc6 {[%timestamp 36]} 3. d4 {[%timestamp 14]} 3... cxd4 {[%timestamp 199]} 4.
+Nxd4 {[%timestamp 27]} 4... Nxd4 {[%timestamp 8]} 5. Qxd4 {[%timestamp 23]} 5...
+d6 {[%timestamp 157]} 6. Nc3 {[%timestamp 61]} 6... Nf6 {[%timestamp 49]} 7. Bd3
+{[%timestamp 159]} 7... e5 {[%timestamp 60]} 8. Qa4+ {[%timestamp 73]} 8... Bd7
+{[%timestamp 127]} 9. Bb5 {[%timestamp 25]} 9... a6 {[%timestamp 126]} 10. Bxd7+
+{[%timestamp 160]} 10... Qxd7 {[%timestamp 122]} 11. Qxd7+ {[%timestamp 33]}
+11... Nxd7 {[%timestamp 12]} 12. Nd5 {[%timestamp 17]} 12... Rc8 {[%timestamp
+87]} 13. c3 {[%timestamp 206]} 13... g6 {[%timestamp 225]} 14. O-O {[%timestamp
+96]} 14... Bg7 {[%timestamp 15]} 15. f3 {[%timestamp 300]} 15... Nf6
+{[%timestamp 364]} 16. Nb6 {[%timestamp 199]} 16... Rc6 {[%timestamp 115]} 17.
+Be3 {[%timestamp 254]} 17... O-O {[%timestamp 153]} 18. Rac1 {[%timestamp 380]}
+18... Rd8 {[%timestamp 91]} 19. b3 {[%timestamp 239]} 19... d5 {[%timestamp
+265]} 20. Nxd5 {[%timestamp 107]} 20... Nxd5 {[%timestamp 113]} 21. exd5
+{[%timestamp 10]} 21... Rxd5 {[%timestamp 68]} 22. c4 {[%timestamp 97]} 22...
+Rd7 {[%timestamp 385]} 23. Rcd1 {[%timestamp 295]} 23... Re7 {[%timestamp 261]}
+24. Rfe1 {[%timestamp 348]} 24... e4 {[%timestamp 347]} 25. Bg5 {[%timestamp
+162]} 25... f6 {[%timestamp 532]} 26. Bh4 {[%timestamp 179]} 26... g5
+{[%timestamp 124]} 27. Bg3 {[%timestamp 168]} 27... f5 {[%timestamp 41]} 28. h4
+{[%timestamp 49]} 28... h6 {[%timestamp 223]} 29. Re3 {[%timestamp 192]} 29...
+f4 {[%timestamp 435]} 30. Rxe4 {[%timestamp 624]} 30... Rxe4 {[%timestamp 17]}
+31. fxe4 {[%timestamp 16]} 31... fxg3 {[%timestamp 9]} 32. hxg5 {[%timestamp
+19]} 32... h5 {[%timestamp 84]} 33. Re1 {[%timestamp 105]} 33... Rg6
+{[%timestamp 156]} 34. e5 {[%timestamp 144]} 34... Rxg5 {[%timestamp 32]} 35. e6
+{[%timestamp 30]} 35... Re5 {[%timestamp 203]} 36. Rxe5 {[%timestamp 289]} 36...
+Bxe5 {[%timestamp 1]} 37. Kf1 {[%timestamp 7]} 37... Kf8 {[%timestamp 30]} 38.
+Ke2 {[%timestamp 4]} 38... Ke7 {[%timestamp 14]} 39. Kf3 {[%timestamp 4]} 39...
+Kxe6 {[%timestamp 56]} 40. Ke4 {[%timestamp 11]} 40... Kd6 {[%timestamp 34]} 41.
+Kf5 {[%timestamp 20]} 41... h4 {[%timestamp 173]} 42. Kg4 {[%timestamp 24]}
+42... Bf6 {[%timestamp 24]} 43. Kf3 {[%timestamp 46]} 43... b5 {[%timestamp 54]}
+44. cxb5 {[%timestamp 27]} 44... axb5 {[%timestamp 6]} 45. Ke2 {[%timestamp 31]}
+45... Kc5 {[%timestamp 10]} 46. a3 {[%timestamp 86]} 46... Bb2 {[%timestamp
+142]} 47. a4 {[%timestamp 90]} 47... bxa4 {[%timestamp 13]} 48. bxa4
+{[%timestamp 14]} 48... Kb4 {[%timestamp 5]} 49. a5 {[%timestamp 41]} 49... Kxa5
+{[%timestamp 1]} 50. Kf3 {[%timestamp 5]} 50... Kb4 {[%timestamp 1]} 51. Kg4
+{[%timestamp 7]} 51... Bf6 {[%timestamp 11]} 52. Kh3 {[%timestamp 12]} 52... Bd8
+{[%timestamp 1]} 53. Kg4 {[%timestamp 10]} 53... Kc5 {[%timestamp 1]} 54. Kh3
+{[%timestamp 14]} 54... Kd4 {[%timestamp 1]} 55. Kg4 {[%timestamp 11]} 55... Kd3
+{[%timestamp 1]} 56. Kf3 {[%timestamp 27]} 56... Kd2 {[%timestamp 1]} 57. Kg4
+{[%timestamp 19]} 57... Bc7 {[%timestamp 7]} 58. Kxh4 {[%timestamp 18]} 58...
+Ke2 {[%timestamp 1]} 59. Kh3 {[%timestamp 6]} 59... Kf2 {[%timestamp 8]} 60. Kg4
+{[%timestamp 66]} 60... Kxg2 {[%timestamp 1]} 61. Kf5 {[%timestamp 19]} 61...
+Kh2 {[%timestamp 1]} 62. Ke6 {[%timestamp 5]} 62... g2 {[%timestamp 1]} 63. Kd7
+{[%timestamp 9]} 63... g1=Q {[%timestamp 1]} 64. Kxc7 {[%timestamp 8]} 64... Qd1
+{[%timestamp 9]} 65. Kc6 {[%timestamp 4]} 65... Kg3 {[%timestamp 1]} 66. Kc5
+{[%timestamp 11]} 66... Kf4 {[%timestamp 1]} 67. Kc4 {[%timestamp 5]} 67... Ke5
+{[%timestamp 1]} 68. Kc3 {[%timestamp 10]} 68... Qd4+ {[%timestamp 9]} 69. Kc2
+{[%timestamp 15]} 69... Qe3 {[%timestamp 18]} 70. Kd1 {[%timestamp 56]} 70...
+Qf2 {[%timestamp 10]} 71. Kc1 {[%timestamp 23]} 71... Kd4 {[%timestamp 1]} 72.
+Kd1 {[%timestamp 34]} 72... Kc3 {[%timestamp 1]} 73. Kc1 {[%timestamp 16]} 73...
+Qc2# {[%timestamp 7]} 0-1

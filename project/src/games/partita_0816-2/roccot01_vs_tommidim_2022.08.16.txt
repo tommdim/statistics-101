@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.16"]
+[Round "?"]
+[White "roccot01"]
+[Black "tommidim"]
+[Result "0-1"]
+[ECO "C29"]
+[WhiteElo "1306"]
+[BlackElo "1557"]
+[TimeControl "600"]
+[EndTime "9:09:16 PDT"]
+[Termination "tommidim won by checkmate"]
+
+1. e4 {[%timestamp 1]} 1... e5 {[%timestamp 1]} 2. Nc3 {[%timestamp 83]} 2...
+Nf6 {[%timestamp 92]} 3. f4 {[%timestamp 38]} 3... d5 {[%timestamp 21]} 4. d3
+{[%timestamp 151]} 4... Bb4 {[%timestamp 89]} 5. Ne2 {[%timestamp 213]} 5... d4
+{[%timestamp 30]} 6. fxe5 {[%timestamp 56]} 6... Nfd7 {[%timestamp 154]} 7. Nxd4
+{[%timestamp 606]} 7... Nxe5 {[%timestamp 41]} 8. Bd2 {[%timestamp 485]} 8...
+Qxd4 {[%timestamp 80]} 9. Nb5 {[%timestamp 286]} 9... Bxd2+ {[%timestamp 97]}
+10. Qxd2 {[%timestamp 14]} 10... Qxb2 {[%timestamp 20]} 11. Nxc7+ {[%timestamp
+468]} 11... Kd8 {[%timestamp 119]} 12. Nxa8 {[%timestamp 361]} 12... Qxa1+
+{[%timestamp 27]} 13. Ke2 {[%timestamp 213]} 13... Bg4+ {[%timestamp 55]} 14.
+Kf2 {[%timestamp 129]} 14... Qd4+ {[%timestamp 415]} 15. Ke1 {[%timestamp 211]}
+15... Nbc6 {[%timestamp 287]} 16. Qg5+ {[%timestamp 88]} 16... f6 {[%timestamp
+136]} 17. Qxg7 {[%timestamp 67]} 17... Qe3+ {[%timestamp 42]} 18. Be2
+{[%timestamp 165]} 18... Qxe2# {[%timestamp 4]} 0-1
