@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.13"]
+[Round "?"]
+[White "gggarce"]
+[Black "valesepicacchi"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "367"]
+[BlackElo "789"]
+[TimeControl "600"]
+[EndTime "6:50:44 PDT"]
+[Termination "valesepicacchi won by checkmate"]
+
+1. e4 {[%timestamp 1]} 1... e5 {[%timestamp 1]} 2. Nf3 {[%timestamp 14]} 2...
+Nc6 {[%timestamp 39]} 3. Nc3 {[%timestamp 53]} 3... Nf6 {[%timestamp 11]} 4. Qe2
+{[%timestamp 68]} 4... g6 {[%timestamp 13]} 5. g3 {[%timestamp 39]} 5... Bg7
+{[%timestamp 8]} 6. Bh3 {[%timestamp 34]} 6... d6 {[%timestamp 98]} 7. b3
+{[%timestamp 76]} 7... Bxh3 {[%timestamp 34]} 8. d3 {[%timestamp 111]} 8... Nd4
+{[%timestamp 76]} 9. Qe3 {[%timestamp 25]} 9... Nxf3+ {[%timestamp 108]} 10.
+Qxf3 {[%timestamp 43]} 10... Qd7 {[%timestamp 158]} 11. Ne2 {[%timestamp 229]}
+11... Bg4 {[%timestamp 164]} 12. Qe3 {[%timestamp 88]} 12... Bxe2 {[%timestamp
+128]} 13. Kxe2 {[%timestamp 25]} 13... Ng4 {[%timestamp 39]} 14. Kf3
+{[%timestamp 50]} 14... Nxe3 {[%timestamp 102]} 15. Bxe3 {[%timestamp 16]} 15...
+O-O-O {[%timestamp 138]} 16. d4 {[%timestamp 13]} 16... exd4 {[%timestamp 44]}
+17. Bg5 {[%timestamp 51]} 17... Rde8 {[%timestamp 180]} 18. Rhd1 {[%timestamp
+22]} 18... c5 {[%timestamp 61]} 19. b4 {[%timestamp 19]} 19... Qa4 {[%timestamp
+155]} 20. Rxd4 {[%timestamp 19]} 20... Qc6 {[%timestamp 143]} 21. Rc4
+{[%timestamp 43]} 21... d5 {[%timestamp 75]} 22. Rxc5 {[%timestamp 43]} 22...
+dxe4+ {[%timestamp 60]} 23. Ke3 {[%timestamp 41]} 23... Qxc5+ {[%timestamp 662]}
+24. bxc5 {[%timestamp 16]} 24... Bxa1 {[%timestamp 20]} 25. Bf6 {[%timestamp
+54]} 25... Bxf6 {[%timestamp 69]} 26. g4 {[%timestamp 38]} 26... Bg5+
+{[%timestamp 14]} 27. f4 {[%timestamp 27]} 27... Bh4 {[%timestamp 61]} 28. f5
+{[%timestamp 24]} 28... gxf5 {[%timestamp 27]} 29. gxf5 {[%timestamp 8]} 29...
+Rhg8 {[%timestamp 43]} 30. c6 {[%timestamp 10]} 30... bxc6 {[%timestamp 29]} 31.
+c4 {[%timestamp 41]} 31... Rg2 {[%timestamp 41]} 32. Kf4 {[%timestamp 58]} 32...
+Rxh2 {[%timestamp 51]} 33. Kg4 {[%timestamp 10]} 33... e3 {[%timestamp 45]} 34.
+a4 {[%timestamp 38]} 34... Re4+ {[%timestamp 13]} 35. Kf3 {[%timestamp 33]}
+35... Rxc4 {[%timestamp 106]} 36. Kxe3 {[%timestamp 10]} 36... Rxa4 {[%timestamp
+16]} 37. f6 {[%timestamp 19]} 37... Rh3+ {[%timestamp 19]} 38. Ke2 {[%timestamp
+21]} 38... Ra2+ {[%timestamp 13]} 39. Kd1 {[%timestamp 18]} 39... Rh1#
+{[%timestamp 21]} 0-1
