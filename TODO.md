@@ -20,9 +20,11 @@ TOMMI
 - Trova un modo per gestire il fatto che di un orologio abbiamo un dato ogni x secondi e per l'altro ogni uno ✅
 - Crea un csv per tutte le partite ✅
 - Cambia il main processor per il le partite così che prenda i csv ✅
-- Controlla i pgn delle singole partite e capisci se nel dataset ci sono tutte le mosse
-- Crea un dataset per le mosse 
-- Fai delle statistiche per le mosse
+- Controlla i pgn delle singole partite e capisci se nel dataset ci sono tutte le mosse ✅
+- Crea un dataset per le mosse ✅
+- Fai delle statistiche per le mosse ❌
+- Ricalcola tutto senza bruciare il mac ✅
+- Metti un max delta nei 5 secondi dopo la mossa ❌
   
 
 ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌
