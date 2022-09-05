@@ -22,7 +22,7 @@ TOMMI
 - Cambia il main processor per il le partite così che prenda i csv ✅
 - Controlla i pgn delle singole partite e capisci se nel dataset ci sono tutte le mosse ✅
 - Crea un dataset per le mosse ✅
-- Fai delle statistiche per le mosse ❌
+- Fai delle statistiche per le mosse ✅
 - Ricalcola tutto senza bruciare il mac ✅
 - Metti un max delta nei 5 secondi dopo la mossa ❌
   
