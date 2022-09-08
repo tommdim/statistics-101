@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.17"]
+[Round "?"]
+[White "tommidim"]
+[Black "roccot01"]
+[Result "1-0"]
+[ECO "C21"]
+[WhiteElo "1557"]
+[BlackElo "1306"]
+[TimeControl "600"]
+[EndTime "1:29:19 PDT"]
+[Termination "tommidim won by resignation"]
+
+1. d4 {[%timestamp 1]} 1... e5 {[%timestamp 1]} 2. e4 {[%timestamp 93]} 2...
+exd4 {[%timestamp 166]} 3. Qxd4 {[%timestamp 75]} 3... Nc6 {[%timestamp 6]} 4.
+Qa4 {[%timestamp 241]} 4... Nf6 {[%timestamp 65]} 5. Bb5 {[%timestamp 78]} 5...
+Bc5 {[%timestamp 223]} 6. Bg5 {[%timestamp 104]} 6... Ne5 {[%timestamp 333]} 7.
+f4 {[%timestamp 128]} 7... Neg4 {[%timestamp 182]} 8. Nh3 {[%timestamp 262]}
+8... c6 {[%timestamp 41]} 9. Bd3 {[%timestamp 105]} 9... d6 {[%timestamp 271]}
+10. Nd2 {[%timestamp 233]} 10... b5 {[%timestamp 286]} 11. Qb3 {[%timestamp
+218]} 11... Be6 {[%timestamp 167]} 12. Qc3 {[%timestamp 260]} 12... b4
+{[%timestamp 250]} 13. Bxf6 {[%timestamp 275]} 13... Nxf6 {[%timestamp 135]} 14.
+Qxc5 {[%timestamp 306]} 14... dxc5 {[%timestamp 30]} 15. e5 {[%timestamp 31]}
+15... Nd5 {[%timestamp 150]} 16. f5 {[%timestamp 185]} 16... Bd7 {[%timestamp
+192]} 17. Ne4 {[%timestamp 47]} 17... Bxf5 {[%timestamp 29]} 18. Nd6+
+{[%timestamp 25]} 18... Kf8 {[%timestamp 174]} 19. Bxf5 {[%timestamp 210]} 19...
+f6 {[%timestamp 187]} 20. O-O-O {[%timestamp 69]} 20... fxe5 {[%timestamp 47]}
+21. Ne4 {[%timestamp 111]} 21... Qe7 {[%timestamp 550]} 22. Rhf1 {[%timestamp
+199]} 22... Nf6 {[%timestamp 357]} 23. Bg4 {[%timestamp 375]} 23... Rd8
+{[%timestamp 140]} 24. Rxd8+ {[%timestamp 75]} 24... Qxd8 {[%timestamp 10]} 25.
+Nxc5 {[%timestamp 40]} 25... Qd4 {[%timestamp 99]} 26. Ne6+ {[%timestamp 46]}
+26... Kf7 {[%timestamp 149]} 27. Nxd4 {[%timestamp 29]} 27... exd4 {[%timestamp
+113]} 28. Ng5+ {[%timestamp 93]} 28... Kg6 {[%timestamp 73]} 29. Ne4
+{[%timestamp 292]} 29... Nxe4 {[%timestamp 142]} 30. Bf5+ {[%timestamp 15]}
+30... Kg5 {[%timestamp 187]} 31. Bxe4 {[%timestamp 51]} 31... Re8 {[%timestamp
+23]} 32. Bxc6 {[%timestamp 122]} 32... a5 {[%timestamp 122]} 1-0
